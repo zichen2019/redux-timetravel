@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "less-loader": "^2.2.3",
-    "node-sass": "^4.9.0",
+    "node-sass": "^7.0.0",
     "sass-loader": "^4.1.1",
     "stylus": "^0.54.7",
     "stylus-loader": "^3.0.2",
